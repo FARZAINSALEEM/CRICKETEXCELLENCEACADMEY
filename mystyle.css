@@ -1,0 +1,83 @@
+body {
+    background-image: url(cricket-facebook-covers.jpg);
+    background-repeat: no-repeat;
+    background-size: 102%;
+  }
+  
+  #abc {
+    background-color: lightgreen;
+    margin: 0% !important;
+    font-size: 50px;
+    padding-left: 25%;
+    font-style: oblique;
+  }
+  
+  
+  a {
+  
+    display: block;
+  
+  
+    text-decoration: none;
+    text-align: center;
+    background-color: black;
+    padding: 0 28px;
+  
+  }
+  
+  ul {
+    margin: 0%;
+    padding: 0 28px;
+  
+    list-style: none;
+    height: 36px;
+    line-height: 36px;
+    border-right: 1px;
+    margin-left: 195px;
+  }
+  
+  li {
+    float: left;
+    font-size: 25px;
+    margin-top: 2%;
+    ;
+    color: purple;
+    font-weight: bold;
+  }
+  
+  a:hover,
+  .abc a {
+  
+    text-align: center;
+    background-color: blue;
+    margin: 0%;
+  }
+  
+  #efg {
+    background-image: url(aae1409be4c1342a9a83b5fa4653c503.jpg);
+    height: 200px;
+    width: 600px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: gold;
+  
+  
+    /* in one line border: 2px solid green; */
+    margin-bottom: 1px;
+    padding-bottom: 148px;
+    padding-top: 0px;
+  
+    margin-left: 370px;
+    margin-top: 69px;
+  
+  }
+  
+  #efg {
+    color: rgb(91, 181, 241);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+  }
+  
+  #ttt {
+    color: pink;
+  }
